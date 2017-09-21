@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#header {
+  background-color: #eee;
+  padding: 15px;
+  width: 100%;
+}
+
+#buttonContainer {
+  width: 200px;
+  margin: 0 auto;
+}
